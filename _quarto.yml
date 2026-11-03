@@ -11,7 +11,7 @@ execute:
 website:
   favicon: content/images/logo_lwg-circle.png
   title: "LegacyWorks Group Template Series Website"
-  repo-url: https://github.com/LegacyWorksGroup
+  repo-url: https://github.com/LegacyWorksGroup/comm-engagement
   repo-actions: [issue]
   navbar:
     background: primary
@@ -19,7 +19,7 @@ website:
       - text: "{{< fa house >}}"
         href: https://legacyworksgroup.com/
       - icon: github
-        href: https://github.com/LegacyWorksGroup
+        href: https://github.com/LegacyWorksGroup/comm-engagement
   sidebar:
     collapse-level: 2
     style: docked
@@ -27,12 +27,8 @@ website:
       - href: index.qmd
       - section: "Series Contents"
         contents: 
-          - text: "Session 1"
-            href: content/session-01.qmd
-          - text: "Session 2"
-            href: content/session-02.qmd
-          - text: "Session 3"
-            href: content/session-03.qmd
+          - text: "Principles & Practices"
+            href: content/principles.qmd
       - text: "Series Recordings"
         href: recordings.qmd
       - text: "Resources"
