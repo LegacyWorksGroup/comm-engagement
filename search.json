@@ -26,7 +26,7 @@
     "href": "index.html",
     "title": "Series Overview",
     "section": "",
-    "text": "The LegacyWorks Group Community of Practice is a space for developing the core competencies needed to show up in service of collaborative, community-driven change initiatives. 2-3 sentence description specific to this series.",
+    "text": "Under construction; check back later",
     "crumbs": [
       "{{< fa house >}}",
       "Series Overview"
@@ -37,7 +37,7 @@
     "href": "index.html#series-structure",
     "title": "Series Overview",
     "section": "Series Structure",
-    "text": "Series Structure\n\n202x-2x Structure",
+    "text": "Series Structure\n\n2026-27 Structure\n\n\nThis series is made up of three 2.5 hour live sessions, offered monthly, January-March 2027, and three web-based modules, available on this website during and after the series.",
     "crumbs": [
       "{{< fa house >}}",
       "Series Overview"
@@ -48,7 +48,7 @@
     "href": "index.html#series-schedule",
     "title": "Series Overview",
     "section": "Series Schedule",
-    "text": "Series Schedule\n\n202x-2x Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nSeries\nPrimary Instructor\n\n\n\n\nMonth ##, 202x\nSeries Name\n Instructor",
+    "text": "Series Schedule\n\n2026-27 Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nSeries\nPrimary Instructor\n\n\n\n\nFeb. 4, 2027\nPrinciples & Practices\n TBA",
     "crumbs": [
       "{{< fa house >}}",
       "Series Overview"
@@ -66,75 +66,27 @@
     ]
   },
   {
-    "objectID": "content/session-02.html",
-    "href": "content/session-02.html",
-    "title": "Session 2 Title",
+    "objectID": "content/principles.html",
+    "href": "content/principles.html",
+    "title": "Principles & Practices",
     "section": "",
-    "text": "2-4 sentence session description text.",
+    "text": "Under construction; check back later.",
     "crumbs": [
       "{{< fa house >}}",
       "Series Contents",
-      "Session 2"
+      "Principles & Practices"
     ]
   },
   {
-    "objectID": "content/session-02.html#additional-resources",
-    "href": "content/session-02.html#additional-resources",
-    "title": "Session 2 Title",
+    "objectID": "content/principles.html#additional-resources",
+    "href": "content/principles.html#additional-resources",
+    "title": "Principles & Practices",
     "section": "Additional Resources",
     "text": "Additional Resources\n\nPapers, Blog Posts, and Books\n\nx\n\n\n\nWorkshops\n\nx",
     "crumbs": [
       "{{< fa house >}}",
       "Series Contents",
-      "Session 2"
-    ]
-  },
-  {
-    "objectID": "content/session-01.html",
-    "href": "content/session-01.html",
-    "title": "Session 1 Title",
-    "section": "",
-    "text": "2-4 sentence session description text.",
-    "crumbs": [
-      "{{< fa house >}}",
-      "Series Contents",
-      "Session 1"
-    ]
-  },
-  {
-    "objectID": "content/session-01.html#additional-resources",
-    "href": "content/session-01.html#additional-resources",
-    "title": "Session 1 Title",
-    "section": "Additional Resources",
-    "text": "Additional Resources\n\nPapers, Blog Posts, and Books\n\nx\n\n\n\nWorkshops\n\nx",
-    "crumbs": [
-      "{{< fa house >}}",
-      "Series Contents",
-      "Session 1"
-    ]
-  },
-  {
-    "objectID": "content/session-03.html",
-    "href": "content/session-03.html",
-    "title": "Session 3 Title",
-    "section": "",
-    "text": "2-4 sentence session description text.",
-    "crumbs": [
-      "{{< fa house >}}",
-      "Series Contents",
-      "Session 3"
-    ]
-  },
-  {
-    "objectID": "content/session-03.html#additional-resources",
-    "href": "content/session-03.html#additional-resources",
-    "title": "Session 3 Title",
-    "section": "Additional Resources",
-    "text": "Additional Resources\n\nPapers, Blog Posts, and Books\n\nx\n\n\n\nWorkshops\n\nx",
-    "crumbs": [
-      "{{< fa house >}}",
-      "Series Contents",
-      "Session 3"
+      "Principles & Practices"
     ]
   },
   {
@@ -149,33 +101,11 @@
     ]
   },
   {
-    "objectID": "recordings.html#session-1",
-    "href": "recordings.html#session-1",
+    "objectID": "recordings.html#principles-practices",
+    "href": "recordings.html#principles-practices",
     "title": "Series Recordings",
-    "section": "Session 1",
-    "text": "Session 1\n\n202x-2x CoP",
-    "crumbs": [
-      "{{< fa house >}}",
-      "Series Recordings"
-    ]
-  },
-  {
-    "objectID": "recordings.html#session-2",
-    "href": "recordings.html#session-2",
-    "title": "Series Recordings",
-    "section": "Session 2",
-    "text": "Session 2\n\n202x-2x CoP",
-    "crumbs": [
-      "{{< fa house >}}",
-      "Series Recordings"
-    ]
-  },
-  {
-    "objectID": "recordings.html#session-3",
-    "href": "recordings.html#session-3",
-    "title": "Series Recordings",
-    "section": "Session 3",
-    "text": "Session 3\n\n202x-2x CoP",
+    "section": "Principles & Practices",
+    "text": "Principles & Practices\n\n2026-27 CoP\n\n\nNo recording (yet)!",
     "crumbs": [
       "{{< fa house >}}",
       "Series Recordings"
