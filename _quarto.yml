@@ -10,12 +10,14 @@ execute:
 
 website:
   favicon: content/images/logo_lwg-circle.png
-  title: "LegacyWorks Group Template Series Website"
+  title: "Community Engagement Series"
   repo-url: https://github.com/LegacyWorksGroup/comm-engagement
   repo-actions: [issue]
   navbar:
     background: primary
     right: 
+      - text: "Series Catalog"
+        href: https://legacyworksgroup.github.io/learning-catalog/
       - text: "{{< fa house >}}"
         href: https://legacyworksgroup.com/
       - icon: github
